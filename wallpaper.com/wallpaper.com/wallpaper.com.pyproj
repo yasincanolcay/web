@@ -30,6 +30,16 @@
     <Content Include="Adsız.png" />
     <Content Include="anasayfa.html" />
     <Content Include="android.html" />
+    <Content Include="computer.html" />
+    <Content Include="computer1.png" />
+    <Content Include="computer2.png" />
+    <Content Include="computer3.jpg" />
+    <Content Include="computer4.jpg" />
+    <Content Include="computer5.jpg" />
+    <Content Include="computer6.png" />
+    <Content Include="computer7.jpg" />
+    <Content Include="computer8.jpg" />
+    <Content Include="computer9.png" />
     <Content Include="wallpaper.com.png" />
     <Content Include="wallpaper.com2.jpg" />
     <Content Include="wallpaper.com3.jpg" />
